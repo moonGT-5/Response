@@ -1,0 +1,16 @@
+依此访问以下网址
+http://localhost:8080/Response/CBAServlet
+http://localhost:8080/Response/CBAServlet?action=statusCode
+http://localhost:8080/Response/CBAServlet?action=header
+http://localhost:8080/Response/CBAServlet?action=refresh
+http://localhost:8080/Response/CBAServlet?action=redirect
+http://localhost:8080/Response/CBAServlet?action=forward
+http://localhost:8080/Response/CBAServlet?action=include
+http://localhost:8080/Response/CBAServlet?action=contentType
+http://localhost:8080/Response/CBAServlet?action=chars
+http://localhost:8080/Response/CBAServlet?action=bytes
+http://localhost:8080/Response/CBAServlet?action=picture&fileName=javaEE开发.jpg
+http://localhost:8080/Response/CBAServlet?action=picture&subAction=download&fileName=javaEE开发.jpg
+http://localhost:8080/Response/CBAServlet?action=img&fileName=javaEE开发.jpg
+http://localhost:8080/Response/CBAServlet?action=imgServlet&fileName=javaEE开发.jpg
+实验结束
